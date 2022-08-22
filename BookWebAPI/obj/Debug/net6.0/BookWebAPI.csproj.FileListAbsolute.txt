@@ -1,0 +1,123 @@
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\appsettings.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\BookWebAPI.exe
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\BookWebAPI.deps.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\BookWebAPI.runtimeconfig.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\BookWebAPI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\BookWebAPI.pdb
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.csproj.AssemblyReference.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.AssemblyInfoInputs.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.AssemblyInfo.cs
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.csproj.CoreCompileInputs.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\scopedcss\bundle\BookWebAPI.styles.css
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.csproj.CopyComplete
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\refint\BookWebAPI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.pdb
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\BookWebAPI.genruntimeconfig.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\obj\Debug\net6.0\ref\BookWebAPI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\appsettings.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\BookWebAPI.exe
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\BookWebAPI.deps.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\BookWebAPI.runtimeconfig.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\BookWebAPI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\BookWebAPI.pdb
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.csproj.AssemblyReference.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.AssemblyInfoInputs.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.AssemblyInfo.cs
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.csproj.CoreCompileInputs.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\scopedcss\bundle\BookWebAPI.styles.css
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.csproj.CopyComplete
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\refint\BookWebAPI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.pdb
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\BookWebAPI.genruntimeconfig.cache
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\obj\Debug\net6.0\ref\BookWebAPI.dll
+E:\Freelancing\Asp .NET core APi\BookWebAPI - Copy\BookWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
