@@ -60,6 +60,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 builder.Services.AddDbContext<BooksDbContext>(
     o => o.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer"))
     );
+
 //dependency Injection which allows us to use our DbContext throughout the project. We can use our BooksDbCOntext Which is in Data anyhwhere like in controllers because of dependency injection
     
 var app = builder.Build();
